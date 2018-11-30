@@ -1,6 +1,6 @@
 cellphone
 computer
 printer
-earphoneeee
-keyboardddd
-mousezsuhs
+earphone
+keyboard
+mouse

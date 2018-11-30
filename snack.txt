@@ -1,4 +1,9 @@
 
+kitchop
+beans
+ice-cream
+
+
 chips
 hamburger
 peanut
@@ -6,4 +11,5 @@ peanut
 Cotton candy
 French fries
 Hamburg
+
 

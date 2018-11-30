@@ -1,6 +1,9 @@
-apple
+pineapple
 banana
 orange
 strawberry
 watermelon
 peach
+litchi
+grape
+durian

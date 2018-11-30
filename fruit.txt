@@ -1,3 +1,6 @@
 apple
 banana
-orang
+orange
+strawberry
+watermelon
+peach

@@ -1,3 +1,6 @@
 milk
 apple juice
 coffee
+coke
+Fruit juice
+Lemon tea
